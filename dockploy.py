@@ -2,7 +2,7 @@
 
 import requests
 
-API_URL = "http://3.110.233.161:3000/api/project.all"
+API_URL = "http://13.204.93.126:3000/api/project.all"
 api_key = "gFjZVEpuYeCMuXSoVaWCTKiFwcnehMCHUPphjkUxckOFhPJQAARnQczcDlNnMqFk"
 app_name = "job-portal-frontend-ee7qrm"
 
